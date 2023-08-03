@@ -1,3 +1,3 @@
 ### Olá, Sou Hugo 🤙🏾
 
-[![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/)
